@@ -2,7 +2,7 @@
   "name": "cache",
   "version": "1.0.0",
   "description": "前端缓存 node js",
-  "keywords": ["Vuejs", "Nuxtjs", "Middleware", "Postcss"],
+  "keywords": ["nodejs", "cache", "JavaScript"],
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./src/app.js"
