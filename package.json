@@ -1,13 +1,12 @@
 {
   "name": "cache",
   "version": "1.0.0",
-  "description": "前端缓存 node",
-  
+  "description": "前端缓存 node js",
+  "keywords": ["Vuejs", "Nuxtjs", "Middleware", "Postcss"],
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./src/app.js"
   },
-  "keywords": [],
   "author": {
     "name" : "xiaoyi",
     "email" : "xiaoyi1255@163.com",
